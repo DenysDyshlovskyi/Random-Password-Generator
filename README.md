@@ -1,2 +1,2 @@
 # Random Password Generator
- Custom random multichoice password generator with .txt file saving.
+ Custom Multichoice Random Password Generator Tool. Support for PIN, Short code, UPC-A barcodes. 
